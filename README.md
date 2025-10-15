@@ -15,6 +15,7 @@ Doodle Deck is being created for a distributed systems project for my university
 4. Toy around with the project!
 
 ### Other Important Info
+I added the submission commit as a submodule to the git repo
 All source code was written in C# using Unity's engine specific libraries
 Each class inherets from a Unity specific class that hooks into various engine systems
 All communication between client and server are done through the use of RPCs, provided in Unity's Netcode for GameObjects package
