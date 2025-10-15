@@ -1,0 +1,3 @@
+[submodule "doodle-deck"]
+	path = doodle-deck
+	url = https://github.com/ethanbrandt/doodle-deck
